@@ -1,0 +1,15 @@
+{
+  "main.css": "/clientpanel/static/css/main.ef1e2cb0.chunk.css",
+  "main.js": "/clientpanel/static/js/main.5bbf5410.chunk.js",
+  "main.js.map": "/clientpanel/static/js/main.5bbf5410.chunk.js.map",
+  "static/css/1.7cb2fc15.chunk.css": "/clientpanel/static/css/1.7cb2fc15.chunk.css",
+  "static/js/1.ad1d4984.chunk.js": "/clientpanel/static/js/1.ad1d4984.chunk.js",
+  "static/js/1.ad1d4984.chunk.js.map": "/clientpanel/static/js/1.ad1d4984.chunk.js.map",
+  "runtime~main.js": "/clientpanel/static/js/runtime~main.f53a6b29.js",
+  "runtime~main.js.map": "/clientpanel/static/js/runtime~main.f53a6b29.js.map",
+  "static/css/1.7cb2fc15.chunk.css.map": "/clientpanel/static/css/1.7cb2fc15.chunk.css.map",
+  "static/css/main.ef1e2cb0.chunk.css.map": "/clientpanel/static/css/main.ef1e2cb0.chunk.css.map",
+  "index.html": "/clientpanel/index.html",
+  "precache-manifest.4093e7e0e62e602ebb74fcd25e207cbb.js": "/clientpanel/precache-manifest.4093e7e0e62e602ebb74fcd25e207cbb.js",
+  "service-worker.js": "/clientpanel/service-worker.js"
+}
